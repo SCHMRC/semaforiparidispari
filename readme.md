@@ -32,7 +32,7 @@ L'accesso è controllato tramite **due semafori**, per garantire l'alternanza co
 ### Compilazione
 
 ```bash
-g++  -pthread nomefile.cpp -o programma
+g++ nomefile.cpp -o programma
 ```
 ### Esecuzione
 ```bash
