@@ -32,10 +32,10 @@ L'accesso è controllato tramite **due semafori**, per garantire l'alternanza co
 ### Compilazione
 
 ```bash
-g++ -std=c++11 -pthread nomefile.cpp -o programma
+g++  -pthread nomefile.cpp -o programma
 ```
 ### Esecuzione
-```
+```bash
 ./programma
 ```
 
